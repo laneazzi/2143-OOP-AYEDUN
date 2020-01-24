@@ -7,5 +7,5 @@ Email: Lanreayedunjr@gmail.com
 Website: https://lanrejnrayedun.wixsite.com/hccportfolio
 
 
-Moi: ![Image description](me redone.jpg)
+Moi: ![Image description](https://github.com/laneazzi/2143-OOP-AYEDUN/blob/master/me%20redone.jpg?raw=true)
 
