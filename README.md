@@ -7,5 +7,5 @@ Email: Lanreayedunjr@gmail.com
 Website: https://lanrejnrayedun.wixsite.com/hccportfolio
 
 
-Moi: ![Image description](https://drive.google.com/file/d/1MLQAq-dLNK64bCbWWADaBPtEWT6yJRbg/view?usp=sharing)
+Moi: ![Image description](me redone.jpg)
 
