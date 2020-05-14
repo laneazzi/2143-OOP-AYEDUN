@@ -5,15 +5,15 @@ I am using the SIR model. This program calculates R which is the average number 
 Simulation Variables can be altered in the config.json file.
 
 ## Config.json includes
- *#  "width":
+ *#### "width":
  
  To change display width.
  
- *# "height" : 
+ *#### "height" : 
  
 To change display height.
 
-*# "population_count" :
+*#### "population_count" :
 
 Number of people on screen
 
