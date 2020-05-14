@@ -7,5 +7,5 @@
 | H02    |  [Homework 2](https://github.com/laneazzi/2143-OOP-AYEDUN/tree/master/ASSIGNMENTS/H02)                   | Poker Game Design|
 | H03    |   [Homework 3](https://github.com/laneazzi/2143-OOP-AYEDUN/tree/master/ASSIGNMENTS/HO3)                    | Overloading operators |
 | P01    | [ Program 1](https://github.com/laneazzi/2143-OOP-AYEDUN/tree/master/ASSIGNMENTS/P01)                    | Game of Peace!  |
-
+| PO3    | [Final Project](https://github.com/laneazzi/2143-OOP-AYEDUN/tree/master/ASSIGNMENTS/Final%20Project)     | COVID-19 Simulator|
 
