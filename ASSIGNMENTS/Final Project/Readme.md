@@ -1,6 +1,7 @@
 ## How to use my 1-bit mini plague.inc (Pandemic Sim)
 
 I am using the SIR model. This program calculates R which is the average number of people infected by a single person during that persons "infectious" stage.
+To run this code, you can pull this repo, or just copy my code. Make sure python and pip are installed. 
 
 Simulation Variables can be altered in the config.json file.
 
@@ -28,5 +29,8 @@ DOnt Change
  * #### sprite_speed : 
 
 Movement speed of sprites
+
+
+## Simulation.py includes
 
 
