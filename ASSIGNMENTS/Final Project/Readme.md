@@ -2,7 +2,7 @@
 
 I am using the SIR model. This program calculates R which is the average number of people infected by a single person during that persons "infectious" stage.
 
-To run this code, Create a new folder on your desktop and dump my resources folder there. Then in your preffered application copy [Simulation.py](https://github.com/laneazzi/2143-OOP-AYEDUN/blob/master/ASSIGNMENTS/Final%20Project/simulation.py) and [Config.json]() then run from Simulation.py. Also, make sure python and pip are installed. 
+To run this code, Create a new folder on your desktop and dump my resources folder there. Then in your preffered application copy [Simulation.py](https://github.com/laneazzi/2143-OOP-AYEDUN/blob/master/ASSIGNMENTS/Final%20Project/simulation.py) and [Config.json](https://github.com/laneazzi/2143-OOP-AYEDUN/blob/master/ASSIGNMENTS/Final%20Project/config.json) then run from Simulation.py. Also, make sure python and pip are installed. 
 
 Simulation Variables can be altered in the config.json file.
 
