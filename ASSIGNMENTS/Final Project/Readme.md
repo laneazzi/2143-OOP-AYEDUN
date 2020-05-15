@@ -9,7 +9,7 @@ Simulation Variables can be altered in the config.json file.
  
  To change display width.
  
- * ####"height" : 
+ * #### "height" : 
  
 To change display height.
 
