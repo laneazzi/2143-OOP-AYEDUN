@@ -9,23 +9,23 @@ Simulation Variables can be altered in the config.json file.
  
  To change display width.
  
- * #### "height" : 
+ * #### height : 
  
 To change display height.
 
- * ####"population_count" :
+ * ####" population_count" :
 
 Number of people on screen
 
- * ####"sprite_width" :  
+ * ####" sprite_width" :  
 
 Dont Change
 
- * ####"sprite_height" : 
+ * ####" sprite_height" : 
 
 DOnt Change
 
- * ####sprite_speed" : 
+ * #### sprite_speed" : 
 
 Movement speed of sprites
 
