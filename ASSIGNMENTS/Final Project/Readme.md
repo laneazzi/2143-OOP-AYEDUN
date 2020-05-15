@@ -35,8 +35,8 @@ Movement speed of sprites
 ## Simulation.py includes
 
 
- * #### A simulation Class that runs the whole simulation from objects of all the other classes.
- * #### An SIR model class to change the model images ( SIR_images
- * #### And other functions for our simulation.
+ *  #### A simulation Class that runs the whole simulation from objects of all the other classes.
+ *  #### An SIR model class to change the model images ( SIR_images )
+ *  #### And other functions for our simulation.
 
 
